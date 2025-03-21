@@ -15,19 +15,21 @@ This script scans through files in a selected folder, detects their file types (
 
 For example:
 Before: 
-📁 MyDownloads/ 
-├── resume.pdf 
-├── photo.png 
+📁 MyDownloads/
+├── resume.pdf
+├── photo.png
 ├── notes.txt
 
+
 After: 
-📁 MyDownloads/ 
-├── PDF document/ 
-│ └── resume.pdf 
-├── PNG image/ 
-│ └── photo.png 
-├── ASCII text/ 
-│ └── notes.txt
+📁MyDownloads/
+├── PDF document/
+│   └── resume.pdf
+├── PNG image/
+│   └── photo.png
+├── ASCII text/
+│   └── notes.txt
+
 
 
 ---
