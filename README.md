@@ -1,4 +1,4 @@
-# 🔄 Smart File Sorter
+# 🔄 Smart File Sorter (UNIX & MAC)
 Tired of messy folders full of PDFs, images, and random files?  
 This lightweight Python script **automatically sorts your files into folders based on their type** — no more clutter, no manual effort!
 
